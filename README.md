@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="200" height="auto" src="https://i.kir.au/sharex/pfp.png"/>
+  <img width="200" height="auto" src="https://i.kir.au/sharex/pfp.png" >
   <h1>Hi <img width="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Kira Kitsune</h1>
   <h3>A passionate web developer and programmer from Australia living in Germany.</h3>
 </div>
 
-<img align="right" width="380" height="auto" src="./assets/images/programmer.gif"/>
+<img align="right" width="380" height="auto" src="./assets/images/programmer.gif" >
 <div align="left">
   <samp>
 <br />
@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-    <h2><b>Connect with Me <img src="./assets/images/handshake.gif" width=80/></b></h2>
+    <h2><b>Connect with Me <img src="./assets/images/handshake.gif" width=80 ></b></h2>
     <div>
         <a href="https://youtube.com/@Kira_Kitsune" target="_blank">
             <img src="https://img.shields.io/badge/youtube-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
@@ -72,16 +72,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kira-Kitsune&show_icons=true&bg_color=151515&icon_color=FFBF00&title_color=FFBF00&border_color=FFBF00&text_color=D3D3D3&layout=compact&langs_count=10&card_width=300&line_height=20" height=160 alt="Kira Kitsune's Lang Stats"/>
     <a/>
 </div>
-
-<div align="center" height=160>
-    
-</div>
-
-<!--
-**Kira-Kitsune/Kira-Kitsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ...
-
--->
