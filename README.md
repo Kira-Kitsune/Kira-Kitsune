@@ -52,6 +52,9 @@
         <a  href="https://github.com/Kira-Kitsune" target="_blank">
             <img src="https://img.shields.io/badge/github-0A0A0A.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
         </a>
+        <a  href="https://codeberg.org/KiraKitsune" target="_blank">
+            <img src="https://img.shields.io/badge/codeberg-2185D0.svg?style=for-the-badge&logo=codeberg&logoColor=white" alt="github"/>
+        </a>
         <a  href="https://www.npmjs.com/~kirakitsune" target="_blank">
             <img src="https://img.shields.io/badge/npm-CB0000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npmjs"/>
         </a>
