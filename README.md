@@ -244,6 +244,6 @@
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b></h2> 
   <a href="https://github.com/Kira-Kitsune/">
     <img src="https://github-readme-stats.vercel.app/api?username=Kira-Kitsune&show_icons=true&bg_color=151515&icon_color=FFBF00&title_color=FFBF00&border_color=FFBF00&text_color=D3D3D3&include_all_commits=true&count_private=true&card_width=450&line_height=20" height=160 alt="Kira Kitsune's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kira-Kitsune&show_icons=true&bg_color=151515&icon_color=FFBF00&title_color=FFBF00&border_color=FFBF00&text_color=D3D3D3&layout=compact&langs_count=10&card_width=300&line_height=20" height=160 alt="Kira Kitsune's Lang Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kira-Kitsune&show_icons=true&bg_color=151515&icon_color=FFBF00&title_color=FFBF00&border_color=FFBF00&text_color=D3D3D3&layout=compact&langs_count=10&card_width=300&line_height=20&include_all_commits=true&count_private=true" height=160 alt="Kira Kitsune's Lang Stats"/>
     <a/>
 </div>
