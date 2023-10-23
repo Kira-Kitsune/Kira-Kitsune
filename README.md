@@ -11,7 +11,7 @@
 
 -   🔭 I’m currently working on **[JoultsBot](https://joultsbot.com) (Discord Bot)**
 
--   🌱 I’m currently learning **Deno and Rest APIs**
+-   🌱 I’m currently learning **Bun and Rest APIs**
 
 -   👯 I’m looking to collaborate on **Nothing at the Moment**
 
@@ -23,7 +23,7 @@
 
 -   😄 Pronouns: **She/Her**
 
--   🌐 Languages: **English, German**
+-   🌐 Languages: **English and German**
 
 -   📍 Location: **Munich, Germany**
 
@@ -115,6 +115,10 @@
   </div>
   <div align="center">
     <h3>Backend</h3>
+    <a href="https://bun.sh" target="_blank"> 
+      <img src="https://img.shields.io/badge/bun-FBF0DF.svg?style=for-the-badge&logo=bun&logoColor=14151A"
+        alt="bun"/> 
+    </a>
     <a href="https://nodejs.org" target="_blank"> 
       <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
         alt="nodejs"/> 
@@ -127,8 +131,8 @@
       <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
         alt="nginx"/> 
     </a>
-    <a href="https://expressjs.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" 
+    <a href="https://elysiajs.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/elysiajs-1F2937.svg?style=for-the-badge&logo=elysiajs&logoColor=white" 
         alt="expressjs"/> 
     </a>
   </div>
@@ -217,8 +221,8 @@
         <a href="https://twitch.tv/KiraKitsune_" target="_blank">
             <img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch"/>
         </a>
-        <a  href="https://twitter.com/_KiraKitsune" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+        <a  href="https://x.com/_KiraKitsune" target="_blank">
+            <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="twitter"/>
         </a>
     </div>
     <div>
@@ -226,7 +230,7 @@
             <img src="https://img.shields.io/badge/github-0A0A0A.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
         </a>
         <a  href="https://codeberg.org/KiraKitsune" target="_blank">
-            <img src="https://img.shields.io/badge/codeberg-2185D0.svg?style=for-the-badge&logo=codeberg&logoColor=white" alt="github"/>
+            <img src="https://img.shields.io/badge/codeberg-2185D0.svg?style=for-the-badge&logo=codeberg&logoColor=white" alt="codeberg"/>
         </a>
         <a  href="https://www.npmjs.com/~kirakitsune" target="_blank">
             <img src="https://img.shields.io/badge/npm-CB0000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npmjs"/>
