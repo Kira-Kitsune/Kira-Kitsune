@@ -9,9 +9,9 @@
   <samp>
 <br />
 
--   🔭 I’m currently working on **[JoultsBot](https://joultsbot.com) (Discord Bot)**
+-   🔭 I’m currently working on **A Kanban Board Application with Tauri**
 
--   🌱 I’m currently learning **Bun and Rest APIs**
+-   🌱 I’m currently learning **Vue.js and Nuxt**
 
 -   👯 I’m looking to collaborate on **Nothing at the Moment**
 
@@ -38,7 +38,7 @@
 <div>
   <div align="center">
     <h1>Knowledge Base</h1>
-    <img width="350" height="auto" src="./assets/images/coding-dawn.gif"/>
+    <img width="200" height="auto" src="./assets/images/coding-dawn.gif"/>
   </div>
   <div align="center">
     <h3>Languages</h3>
@@ -80,7 +80,7 @@
     </a>
   </div>
   <div align="center">
-    <h3>Frontend</h3>
+    <h3>Frontend/Meta-frameworks</h3>
     <a href="https://www.w3.org/html/" target="_blank"> 
       <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
         alt="html5"/> 
@@ -89,11 +89,20 @@
       <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
         alt="css3"/>
     </a>
+        <a href="https://vitejs.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite"/> 
+    </a>
     <a href="https://solidjs.com/" target="_blank">
       <img src="https://img.shields.io/badge/SolidJS-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white" alt="solidjs"/> 
     </a>
     <a href="https://start.solidjs.com/" target="_blank">
       <img src="https://img.shields.io/badge/SolidStart-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white" alt="solidstart"/> 
+    </a>
+    <a href="https://vuejs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vuejs"/> 
+    </a>
+    <a href="https://nuxt.com/" target="_blank">
+      <img src="https://img.shields.io/badge/nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxt"/> 
     </a>
     <a href="https://react.com/" target="_blank">
       <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
@@ -105,9 +114,6 @@
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
       <img src="https://img.shields.io/badge/tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind-css"/> 
-    </a>
-    <a href="https://vitejs.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite"/> 
     </a>
     <a href="https://i18next.com" target="_blank">
       <img src="https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white" alt="vite"/> 
@@ -153,9 +159,13 @@
       <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb"/> 
     </a>
+    <a href="https://www.postgresql.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/ProgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+        alt="postgresql"/> 
+    </a>
     <a href="https://mysql.com/" target="_blank"> 
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
-        alt="postgresql"/> 
+        alt="mysql"/> 
     </a>
     <a href="https://www.sqlite.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
@@ -192,6 +202,12 @@
     <a href="https://insomnia.rest/" target="_blank"> 
       <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="insomnia"/>
     </a>
+    <a href="https://kubuntu.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/kubuntu-0079C1.svg?style=for-the-badge&logo=kubuntu&logoColor=white" alt="kubuntu"/>
+    </a>
+    <a href="https://ubuntu.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+    </a>
     <a href="https://microsoft.com/windows/" target="_blank"> 
       <img src="https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" alt="ubuntu"/>
     </a>
@@ -200,9 +216,6 @@
     </a>    
     <a href="https://microsoft.com/powershell" target="_blank">
       <img src="https://img.shields.io/badge/powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" />
-    </a>
-    <a href="https://ubuntu.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank">
       <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="gnubash" />
