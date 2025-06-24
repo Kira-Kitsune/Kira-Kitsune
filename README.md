@@ -161,6 +161,9 @@
     <a href="https://github.com/Kira-Kitsune" target="_blank">
       <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     </a>
+    <a href="https://gitlab.com/kirakitsune" target="_blank">
+      <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+    </a>
   </div>
   <div align="center">
     <h3>IDEs, Tools & Platform</h3>
