@@ -9,13 +9,9 @@
   <samp>
 <br />
 
--   🔭 I’m currently working on **A Kanban Board Application with Tauri**
+-   🔭 I’m currently working on **Updating my Discord Bot**
 
--   🌱 I’m currently learning **Vue.js and Nuxt**
-
--   👯 I’m looking to collaborate on **Nothing at the Moment**
-
--   🤔 I’m looking for help with **Anyone that needs my skills**
+-   🌱 I’m currently learning **Rust**
 
 -   💬 Ask me about **What I can help you with**
 
@@ -62,10 +58,6 @@
       <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" 
         alt="rust"/> 
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-      <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" 
-        alt="csharp"/> 
-    </a>
     <a href="https://www.java.com" target="_blank">
       <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
         alt="java"/> 
@@ -104,14 +96,6 @@
     <a href="https://nuxt.com/" target="_blank">
       <img src="https://img.shields.io/badge/nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxt"/> 
     </a>
-    <a href="https://react.com/" target="_blank">
-      <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-        alt="react"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"
-        alt="nextjs"/>
-    </a>
     <a href="https://tailwindcss.com/" target="_blank">
       <img src="https://img.shields.io/badge/tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind-css"/> 
     </a>
@@ -128,10 +112,6 @@
     <a href="https://nodejs.org" target="_blank"> 
       <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
         alt="nodejs"/> 
-    </a>
-    <a href="https://deno.land/" target="_blank"> 
-      <img src="https://img.shields.io/badge/deno-000000.svg?style=for-the-badge&logo=deno&logoColor=white"
-        alt="deno"/> 
     </a>
     <a href="https://www.nginx.com" target="_blank"> 
       <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
@@ -181,41 +161,17 @@
     <a href="https://github.com/Kira-Kitsune" target="_blank">
       <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     </a>
-    <a href="https://desktop.github.com/" target="_blank">
-      <img src="https://img.shields.io/badge/github%20desktop-7E2F9F.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    </a>
   </div>
   <div align="center">
     <h3>IDEs, Tools & Platform</h3>
     <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-    </a>
-    <a href="https://jetbrains.com/" target="_blank">
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="jetbrains" />
-    </a>
-    <a href="https://unity.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black" alt="unity" />
-    </a>
-    <a href="https://developer.android.com/studio" target="_blank">
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="jetbrains" />
-    </a>
-    <a href="https://insomnia.rest/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white" alt="insomnia"/>
+      <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode"/> 
     </a>
     <a href="https://kubuntu.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/kubuntu-0079C1.svg?style=for-the-badge&logo=kubuntu&logoColor=white" alt="kubuntu"/>
     </a>
     <a href="https://ubuntu.com/" target="_blank"> 
       <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-    </a>
-    <a href="https://microsoft.com/windows/" target="_blank"> 
-      <img src="https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" alt="ubuntu"/>
-    </a>
-    <a href="https://github.com/microsoft/terminal" target="_blank">
-      <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=WindowsTerminal&logoColor=white" alt="windowsterminal" />
-    </a>    
-    <a href="https://microsoft.com/powershell" target="_blank">
-      <img src="https://img.shields.io/badge/powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" />
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank">
       <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="gnubash" />
@@ -228,6 +184,9 @@
 <div align="center">
     <h2><b>Connect with Me <img src="./assets/images/handshake.gif" width=80 ></b></h2>
     <div>
+        <a href="https://bsky.app/profile/kirakitsune.dev" target="_blank">
+            <img src="https://img.shields.io/badge/bluesky-0285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white" alt="bluesky"/>
+        </a>
         <a href="https://youtube.com/@Kira_Kitsune" target="_blank">
             <img src="https://img.shields.io/badge/youtube-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
         </a>
